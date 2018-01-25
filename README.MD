@@ -38,4 +38,4 @@ while ($data = fread($file, 24567)) {
 fclose($file);
 $stream->stop();
 ```
-The documentation is in the *docs* directory.
+The documentation is in the ```/docs``` directory.
